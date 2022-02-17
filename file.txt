@@ -1,2 +1,7 @@
 THRILLER
-Shutter Island
+<<<<<<< HEAD
+=======
+Curved
+Ma che bel castello marcondirondirondello 
+
+>>>>>>> 817a18c91527e08da955b95b427dad09555c69f7
